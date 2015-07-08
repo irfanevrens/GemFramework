@@ -13,10 +13,7 @@
       "Gem\\Listeners\\":"Application/Event/Listeners/",
       "Gem\\Routes\\":"Application/Routes",
       "Gem\\System\\":"System/"
-    },
-    "classmap": [
-      "vendor"
-    ]
+    }
   },
   "require": {
     "php": ">=5.4",
